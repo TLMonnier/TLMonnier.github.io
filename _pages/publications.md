@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 ## Work in Progress
 
 - Optimal Targeting for Place-Based Policies: Evidence from French Enterprise Zones

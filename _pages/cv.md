@@ -22,7 +22,7 @@ Work experience
 * Summer 2020: Research Assistant
   * Erasmus School of Economics
   * Worked on the impact of direct air connections on FDI in Mainland China
-  * Supervisor: Prof. [Laura Hering](https://www.mwpweb.eu/LauraHering/)
+  * Supervisor: [Pr. Laura Hering](https://www.mwpweb.eu/LauraHering/)
 
 Grants & awards
 ======

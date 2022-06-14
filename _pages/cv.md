@@ -9,34 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my full CV [here](https://tlmonnier.github.io/files/CV.pdf).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Economics, CREST - Ecole Polytechnique - IP Paris, since 2019
+* MSc in Management, HEC Paris (Grande Ecole), 2015-2020
+* "Classe préparatoire ECS" (BSc equivalent), Lycée Louis-le-Grand, 2013-2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Research Assistant
+  * Erasmus School of Economics
+  * Worked on the impact of direct air connections on FDI in Mainland China
+  * Supervisor: Prof. Laura Hering
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Grants & awards
+======
+* Full PhD Scholarship, Labex ECODEC (2021-2024)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * French (native)
+  * English (TOEFL, 647/677)
+  * Spanish (DELE, C1)
+  * Japanese (JLPT, N4)
+  * Polish (intermediate)
+* IT
+  * Python, Stata, LaTeX, MS Office (advanced)
+  * GIS (intermediate)
+  * R, Matlab, SQL, NetLogo (basics)
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -56,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

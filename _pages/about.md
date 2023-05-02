@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at [CREST](https://crest.science/), [Ecole Polytechnique](https://www.polytechnique.edu/en), [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) under the supervision of [Pr. Benoit Schmutz](https://sites.google.com/site/benoitschmutz/) and [Pr. Anthony Strittmatter](https://www.anthonystrittmatter.com/) since September 2021.
+I am a PhD candidate at [CREST](https://crest.science/), [Ecole Polytechnique](https://www.polytechnique.edu/en), [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) working under the supervision of [Pr. Benoit Schmutz](https://sites.google.com/site/benoitschmutz/) since September 2021.
 
-My research lies at the intersection of urban, labor, and environmental economics. More specifically, I focus on the evaluation of place-based policies and their link with matching externalities in local labor markets, as well as residential segregation and disaster risk management.
+My research lies at the intersection of urban, labour, and development economics. More specifically, I focus on the role informal housing and informal employment play in key issues for cities in the developing world (e.g. disaster risk management, climate change, migration). I am also interested in spatial sorting and residential segregation.
 
 **Contact**: [thomas.monnier@ensae.fr](mailto:thomas.monnier@ensae.fr)
+**Twitter**: [@TLMonnier](https://twitter.com/TLMonnier)
+**Github**: [TLMonnier](https://github.com/TLMonnier)

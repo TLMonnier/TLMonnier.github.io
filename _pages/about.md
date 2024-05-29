@@ -15,3 +15,5 @@ My research lies at the intersection of urban, labour, and development economics
 **Contact**: [thomas.monnier@ensae.fr](mailto:thomas.monnier@ensae.fr)
 **Twitter**: [@TLMonnier](https://twitter.com/TLMonnier)
 **Github**: [TLMonnier](https://github.com/TLMonnier)
+**LinkedIn**: [Thomas Monnier](https://www.linkedin.com/in/tlmonnier/)
+**Academic website**: [Thomas Monnier](https://crest.science/user/thomas-monnier/)

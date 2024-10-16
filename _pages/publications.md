@@ -8,7 +8,7 @@ author_profile: true
 
 ## Work in Progress
 
-- Rural-to-Urban Migration with Search Frictions and Informal Labour: Application to South Africa
+- [The Informality Trade-Off: Wages and Rural-Urban Migration in South Africa](https://tlmonnier.github.io/files/Monnier_JMP.pdf)
 
 	<u>Abstract</u>: Does informal employment lead to labour misallocation in developing countries? On the one hand, the informal sector shields low-productivity firms from competition and diverts workers from more productive matches in the presence of search frictions. On the other, it can protect workers from unemployment risk and firms’ labour market power. Its role as a stepping-stone for movers and stayers in a context of rapid urbanization is ambiguous. To bring these different channels together, I develop a general-equilibrium model of long-term internal mobility based upon frictional job search-and-matching, that I estimate with South African micro data. Preliminary results suggest that enforcing firms’ formal status increases total output but reduces workers’ welfare. Overall, I argue for labour market policies that are more mindful of the organic role informal employment can play in a country’s development process.
 

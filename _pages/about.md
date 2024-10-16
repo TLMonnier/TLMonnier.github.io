@@ -14,7 +14,7 @@ My research lies at the intersection of development, urban, and labour economics
 
 During my PhD, I visited the Dept. of Economics at University College London. You can find my full CV [here](https://tlmonnier.github.io/files/CV.pdf).
 
-<p style="text-align:center;">**I am currently on the 2024-25 job market.**</p>
+**I am currently on the 2024-25 job market.**
 
 References:
 

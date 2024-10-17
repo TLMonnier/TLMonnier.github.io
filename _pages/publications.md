@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Woring Papers
+## Working Papers
 
 - [The Informality Trade-Off: Wages and Rural-Urban Migration in South Africa](https://tlmonnier.github.io/files/Monnier_JMP.pdf) \[JOB MARKET PAPER\]
 

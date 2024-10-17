@@ -14,13 +14,13 @@ My research lies at the intersection of development, urban, and labour economics
 
 During my PhD, I visited the Dept. of Economics at University College London. You can find my full CV [here](https://tlmonnier.github.io/files/CV.pdf).
 
-<ins>Contact</ins>: [thomas.monnier@ensae.fr](mailto:thomas.monnier@ensae.fr)
+- Contact: [thomas.monnier@ensae.fr](mailto:thomas.monnier@ensae.fr)
 
 ---
 
 **I am currently on the 2024-25 job market!**
 
-<ins>Contact</ins>:
+- References:
 
 [Roland Rathelot](http://rolandrathelot.com/) - [Pauline Rossi](https://sites.google.com/site/paulinerossimoulin/home) - [Benoit Schmutz-Bloch](https://sites.google.com/site/benoitschmutz/) - [Harris Selod](https://sites.google.com/site/hselod/)
 

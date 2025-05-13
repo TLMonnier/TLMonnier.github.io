@@ -8,19 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at [CREST](https://crest.science/), [Ecole Polytechnique](https://www.polytechnique.edu/en), [IP Paris](https://www.ip-paris.fr/en), working under the supervision of Prof. Benoit Schmutz-Bloch.
+I am a PhD candidate in Economics at [CREST](https://crest.science/), [Ecole Polytechnique](https://www.polytechnique.edu/en), [IP Paris](https://www.ip-paris.fr/en). In September 2025, I will be joining [Hitotsubashi University](https://www.hit-u.ac.jp/eng/) ([Institute for Advanced Study](https://hias.hit-u.ac.jp/en/)) as an Assistant Professor.
 
-My research lies at the intersection of development, urban, labour, and environmental economics. More specifically, I focus on how informal employment and informal housing relate to key challenges faced by cities in low- and middle-income countries (e.g., migration, unemployment, climate change). I am also interested in spatial sorting and residential segregation.
+In my research, I apply structural approaches (mostly from urban economics) to questions in development economics. I wrote my PhD dissertation on the role of informal labour and housing in South Africa, and I am working more widely on migration, urbanization, climate change, factor misallocation, structural transformation, and place-based policies. As part of my PhD, I also worked as a consultant for the World Bank.
 
-During my PhD, I visited the Dept. of Economics at University College London. You can find my full CV [here](https://tlmonnier.github.io/files/CV.pdf).
-
-- Contact: [thomas.monnier@ensae.fr](mailto:thomas.monnier@ensae.fr)
-
----
-
-**I am currently on the 2024-25 job market!**
-
-- References:
-
-[Roland Rathelot](http://rolandrathelot.com/) - [Pauline Rossi](https://sites.google.com/site/paulinerossimoulin/home) - [Benoit Schmutz-Bloch](https://sites.google.com/site/benoitschmutz/) - [Harris Selod](https://sites.google.com/site/hselod/)
 

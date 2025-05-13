@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Thomas Monnier"
   avatar           : "Pic_crop.jpg"
-  bio              : "PhD candidate in Economics at CREST, Ecole Polytechnique, IP Paris"
+  bio              : "PhD candidate in Economics"
   location         : "Paris, France"
-  employer         :
+  employer         : "CREST, Ecole Polytechnique, IP Paris"
   pubmed           : 
   googlescholar    : 
   email            : "thomas.monnier@ensae.fr"

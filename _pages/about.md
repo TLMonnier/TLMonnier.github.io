@@ -14,6 +14,6 @@ In my research, I apply structural approaches (mostly from **urban economics**) 
 
 ***What's new***:
 - Our paper (joint with Paolo Avner, Basile Pfeiffer, Clause Rabe, Harris Selod, and Vincent Viguié) on [informal housing in Cape Town](https://tlmonnier.github.io/files/Pfeiffer_CoCT.pdf) is currently under revision at the *Journal of Urban Economics*.
-- I will also be presenting this and other work at the [9th Urbanization and Developement Conference](https://www.worldbank.org/en/events/2025/06/11/9th-urbanization-and-development-conference) that will be held in Cape Town, South Africa (June 11-12, 2025).
+- I will also be presenting this and other work at the [9th Urbanization and Developement Conference](https://www.worldbank.org/en/events/2025/06/11/9th-urbanization-and-development-conference) that will be held in Cape Town, South Africa (June 11-12, 2025).\
 
 <ins>Contact</ins>: [thomas.monnier@ensae.fr](mailto:thomas.monnier@ensae.fr)

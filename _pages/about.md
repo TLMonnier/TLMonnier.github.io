@@ -12,4 +12,7 @@ I am a PhD candidate in Economics at [CREST](https://crest.science/), [Ecole Pol
 
 In my research, I apply structural approaches (mostly from urban economics) to questions in development economics. I wrote my PhD dissertation on the role of informal labour and housing in South Africa, and I am working more widely on migration, urbanization, climate change, factor misallocation, structural transformation, and place-based policies. As part of my PhD, I also worked as a consultant for the World Bank.
 
+**What's new**:
+- Our paper (joint with Paolo Avner, Basile Pfeiffer, Clause Rabe, Harris Selod, and Vincent Viguié) on [informal housing in Cape Town](https://tlmonnier.github.io/files/Pfeiffer_CoCT.pdf) is currently under revision at the *Journal of Urban Economics*.
+- I will also be presenting this and other work at the [9th Urbanization and Developement Conference](https://www.worldbank.org/en/events/2025/06/11/9th-urbanization-and-development-conference) that will be held in Cape Town, South Africa (June 11-12, 2025).
 

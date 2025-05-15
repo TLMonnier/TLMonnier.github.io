@@ -8,14 +8,10 @@ author_profile: true
 ## Working Papers
 
 - [**The Informality Trade-Off: Wages and Rural-Urban Migration in South Africa**](https://tlmonnier.github.io/files/Monnier_InformalMigration.pdf)
-	- Presented at the [CSAE 2025 conference](https://www.csae.ox.ac.uk/csae-conference-2025), the [AASLE 2024 conference](https://www.aasle.org/bangkok-conference-info), the [17th International Conference on Migration and Development](https://www.bolognaconventionbureau.it/en/events/17th-international-conference-on-migrati/), and the [13th European Meeting of the Urban Economics Association](https://urbaneconomics.org/meetings/emuea2024/)
-
-<br>
+	- Presented at the [CSAE 2025 conference](https://www.csae.ox.ac.uk/csae-conference-2025), the [AASLE 2024 conference](https://www.aasle.org/bangkok-conference-info), the [17th International Conference on Migration and Development](https://www.bolognaconventionbureau.it/en/events/17th-international-conference-on-migrati/), and the [13th European Meeting of the Urban Economics Association](https://urbaneconomics.org/meetings/emuea2024/)<br>
 
 - [**Assessing Urban Policies Using a Simulation Model with Formal and Informal Housing**](https://tlmonnier.github.io/files/Monnier_InformalHousing.pdf) (joint with [Paolo Avner](https://blogs.worldbank.org/team/paolo-avner), [Basile Pfeiffer](https://www.linkedin.com/in/basile-pfeiffer-3a630986?originalSubdomain=fr), [Claus Rabe](https://www.linkedin.com/in/claus-rabe-ba099119/?originalSubdomain=za), [Harris Selod](https://sites.google.com/site/hselod/), and [Vincent Viguié](https://www.vincentviguie.com/))
-	- Revision requested at the *Journal of Urban Economics*
-
-<br>
+	- Revision requested at the *Journal of Urban Economics*<br>
 
 - [**Can the Urban Poor Avoid Flood Risks? The Case of Cape Town, South Africa**](https://tlmonnier.github.io/files/Monnier_InformalFloods.pdf) (joint with [Paolo Avner](https://blogs.worldbank.org/team/paolo-avner), [Charlotte Liotta](https://www.centre-cired.fr/charlotte-liotta/), [Basile Pfeiffer](https://www.linkedin.com/in/basile-pfeiffer-3a630986?originalSubdomain=fr), [Claus Rabe](https://www.linkedin.com/in/claus-rabe-ba099119/?originalSubdomain=za), [Harris Selod](https://sites.google.com/site/hselod/), and [Vincent Viguié](https://www.vincentviguie.com/)) 
 	- [Online documentation](https://cired.github.io/cape_town_NEDUM_Python/) developed for the [City of Cape Town](https://www.capetown.gov.za/) (within the South African [Cities Support Programme](https://csp.treasury.gov.za/)) as a paper companion

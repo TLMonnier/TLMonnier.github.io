@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Thomas Monnier"
 title_separator          : "-"
 name                     : &name "Thomas Monnier"
-description              : &description "PhD candidate in Economics at CREST, Ecole Polytechnique, IP Paris"
+description              : &description "Assistant Professor of Economics at Hitotsubashi Institute for Advanced Study (CURES)"
 url                      : https://TLMonnier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TLMonnier/TLMonnier.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Thomas Monnier"
   avatar           : "Pic_crop.jpg"
-  bio              : "PhD candidate in Economics at Ecole Polytechnique / IP Paris (CREST)"
-  location         : "Paris, France"
+  bio              : "Assistant Professor of Economics at Hitotsubashi Institute for Advanced Study (CURES)"
+  location         : "Tokyo, Japan"
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "thomas.monnier@ensae.fr"
+  email            : "thomas.monnier@r.hit-u.ac.jp"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

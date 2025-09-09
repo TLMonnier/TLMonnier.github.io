@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## TA sessions
+## Teaching Assistant
 
 - Energy Economics with a Geography Focus, Ecole Polytechnique, [Prof. Geoffrey Barrows](https://sites.google.com/site/geoffreybarrows/) (Graduate level, Spring 2022)
   - <span style="font-size:medium;"> [Syllabus](https://tlmonnier.github.io/files/syllabus567A.pdf)</span>

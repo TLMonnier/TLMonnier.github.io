@@ -14,7 +14,8 @@ In my research, I apply structural models (mostly from **urban economics**) to c
 
 ---
 
-**Outreach**:
+### Outreach
 - An interview I gave upon completing my PhD at [CREST](https://crest.science/crestive-minds-thomas-monnier/) (Sep. 2025)
 
-**Contact**: [thomas.monnier@r.hit-u.ac.jp](mailto:thomas.monnier@r.hit-u.ac.jp)
+### Contact
+- [thomas.monnier@r.hit-u.ac.jp](mailto:thomas.monnier@r.hit-u.ac.jp)
